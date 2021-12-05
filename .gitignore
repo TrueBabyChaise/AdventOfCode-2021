@@ -1,3 +1,12 @@
+# Personnal
+
+test*
+Test*
+test/
+Test/
+output*
+Output*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
