@@ -17,7 +17,7 @@ def getCount():
 
 # Change to 256
 # 6.2s for 1 000 000
-for time in range(1000000):
+for time in range(1000):
 	tmp = listVal[0]
 	tmpCountDown = newCountDown[0]
 	for i in range(len(listVal) - 1):
